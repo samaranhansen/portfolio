@@ -1,10 +1,10 @@
 h1 {
   margin-bottom: 0px;
-  text-align: center;
   line-height: 60px;
   font-size: 50px;
   font-weight: 200;
   font-family: "Raleway", sans-serif;
+  color: #a37875;
 }
 
 h2 {
@@ -13,6 +13,7 @@ h2 {
   font-family: "Nunito Sans", sans-serif;
   font-weight: 200;
   line-height: 30px;
+  color: #b7a69f;
 }
 
 .containerSite {
@@ -22,5 +23,15 @@ h2 {
 }
 
 .containerHeader {
-  max-width: 400px;
+  margin: 30px;
+  padding: 40px;
+  background-color: #e9e5e1;
+  border-radius: 2px;
+}
+
+.containerWork {
+  margin: 0px;
+  padding: 40px;
+  background-color: #e9e5e1;
+  border-radius: 2px;
 }
